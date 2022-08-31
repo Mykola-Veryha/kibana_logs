@@ -1,0 +1,5 @@
+name: 'Kibana log messages'
+type: module
+description: 'Kibana log messages'
+package: Custom
+core_version_requirement: '^9.0.0'

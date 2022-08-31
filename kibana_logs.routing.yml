@@ -1,0 +1,7 @@
+kibana_logs.log_message:
+  path: '/admin/content/kibana-logs'
+  defaults:
+    _form: 'Drupal\kibana_logs\Form\LogMessageForm'
+    _title: 'Log messages'
+  requirements:
+    _access: 'TRUE'
